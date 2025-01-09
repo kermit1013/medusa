@@ -1,5 +1,16 @@
 # @medusajs/utils
 
+## 2.2.1
+
+### Patch Changes
+
+- [#10880](https://github.com/medusajs/medusa/pull/10880) [`67782350a9da278457c3280c300ebec65bdc6326`](https://github.com/medusajs/medusa/commit/67782350a9da278457c3280c300ebec65bdc6326) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: add default retry strategy for redis
+
+- [#10874](https://github.com/medusajs/medusa/pull/10874) [`28febfc6438351fddb5b214b86f96aff89db688e`](https://github.com/medusajs/medusa/commit/28febfc6438351fddb5b214b86f96aff89db688e) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: remove dead code and refactor the logic of resolving plugins
+
+- Updated dependencies [[`28febfc6438351fddb5b214b86f96aff89db688e`](https://github.com/medusajs/medusa/commit/28febfc6438351fddb5b214b86f96aff89db688e)]:
+  - @medusajs/types@2.2.1
+
 ## 2.2.0
 
 ### Patch Changes
